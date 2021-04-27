@@ -9,6 +9,6 @@ h1, h2 {
 .remove-tweet:hover {
     float: right;
     cursor: pointer;
-    color: blue;
+    color:orange;
     font-weight: bold;
 }
